@@ -144,28 +144,28 @@ Manual Testing: Introduction to Test Tools
 
 Server side Testing: Introduction to Server
 -------
-0. 1) Introduction to Server - [Link](http://en.wikipedia.org/wiki/Server_%28computing%29)  [Link](http://www.wifinotes.com/computer-networks/server-types.html)  
-0. 2) Functionality of a Server - [Link](http://pc.net/helpcenter/answers/purpose_of_a_server)  [Link](http://www.ehow.com/about_6322037_function-computer-server_.html)  [Link](http://www.ehow.com/how-does_4899740_a-server-work.html)  
+0. Introduction to Server - [Link](http://en.wikipedia.org/wiki/Server_%28computing%29)  [Link](http://www.wifinotes.com/computer-networks/server-types.html)  
+0. Functionality of a Server - [Link](http://pc.net/helpcenter/answers/purpose_of_a_server)  [Link](http://www.ehow.com/about_6322037_function-computer-server_.html)  [Link](http://www.ehow.com/how-does_4899740_a-server-work.html)  
 
 Server side Testing: Different Types of Server
 -------
-0. a) Web Server – IIS & Apache - [Link](http://httpd.apache.org/)  [Link](http://www.microsoft.com/iis)  [Link](http://www.webdevelopersnotes.com/basics/what_is_web_server.php)  [Link](http://en.wikipedia.org/wiki/Web_server)  
-0. b) Database Server –SQL Server & My SQL - [Link](http://ecomputernotes.com/fundamental/what-is-a-database/what-is-a-database-server)  [Link](http://www.serverschool.com/dedicated-servers/what-is-a-database-server/)  [Link](http://dev.mysql.com/doc/refman/5.5/en/)  [Link](http://www.quackit.com/sql_server/tutorial/)  
-0. c) Application Server - Jboss - [Link](http://www.diffen.com/difference/Application_Server_vs_Web_Server)  [Link](http://docs.jboss.org/jbossas/docs/Installation_Guide/beta500/html-single/)  [Link](http://www.resultantsys.com/index.php/general/what-is-a-web-application-server/)  [Link](http://www.theserverside.com/news/1363671/What-is-an-App-Server)  
-0. d) LDAP Server/Directory Server - MSAD / SunOne - [Link](http://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)  [Link](http://www.openldap.org/doc/admin21/intro.html)  [Link](http://docs.oracle.com/cd/E19199-01/816-6698-10/intro.html)  
-0. e) Transaction Server - [Link](http://www.wisegeek.com/what-are-transaction-servers.htm)  [Link](http://www.ahc.net/subtransactionservers.htm)  
-0. f) Mail Server - [Link](http://whatismyipaddress.com/mail-server)  [Link](https://en.wikipedia.org/wiki/Message_transfer_agent)  
-0. g) File Server - Samba - [Link](http://www.techterms.com/definition/file_server)  [Link](https://en.wikipedia.org/wiki/File_server)  
+0. Web Server – IIS & Apache - [Link](http://httpd.apache.org/)  [Link](http://www.microsoft.com/iis)  [Link](http://www.webdevelopersnotes.com/basics/what_is_web_server.php)  [Link](http://en.wikipedia.org/wiki/Web_server)  
+0. Database Server –SQL Server & My SQL - [Link](http://ecomputernotes.com/fundamental/what-is-a-database/what-is-a-database-server)  [Link](http://www.serverschool.com/dedicated-servers/what-is-a-database-server/)  [Link](http://dev.mysql.com/doc/refman/5.5/en/)  [Link](http://www.quackit.com/sql_server/tutorial/)  
+0. Application Server - Jboss - [Link](http://www.diffen.com/difference/Application_Server_vs_Web_Server)  [Link](http://docs.jboss.org/jbossas/docs/Installation_Guide/beta500/html-single/)  [Link](http://www.resultantsys.com/index.php/general/what-is-a-web-application-server/)  [Link](http://www.theserverside.com/news/1363671/What-is-an-App-Server)  
+0. LDAP Server/Directory Server - MSAD / SunOne - [Link](http://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)  [Link](http://www.openldap.org/doc/admin21/intro.html)  [Link](http://docs.oracle.com/cd/E19199-01/816-6698-10/intro.html)  
+0. Transaction Server - [Link](http://www.wisegeek.com/what-are-transaction-servers.htm)  [Link](http://www.ahc.net/subtransactionservers.htm)  
+0. Mail Server - [Link](http://whatismyipaddress.com/mail-server)  [Link](https://en.wikipedia.org/wiki/Message_transfer_agent)  
+0. File Server - Samba - [Link](http://www.techterms.com/definition/file_server)  [Link](https://en.wikipedia.org/wiki/File_server)  
 
 Server side Testing: Types of tests needs to be executed in Server Testing
 -------
-0. o   Performance testing - [Link](http://www.guru99.com/performance-testing.html)  [Link](http://www.softwaretestinghelp.com/what-is-performance-testing-load-testing-stress-testing/)  
-0. o   Volume testing - [Link](http://www.softwaretesting.no/testing/volumetest.pdf)  [Link](http://geekswithblogs.net/ppothuraju/archive/2005/11/16/60266.aspx)  
-0. o   Stress testing - [Link](http://www.buzzle.com/articles/software-testing-stress-testing.html)  [Link](http://www.techopedia.com/definition/15310/stress-testing)  [Link](http://www.guru99.com/stress-testing.html)  
-0. o   Error trapping - [Link](http://searchsoftwarequality.techtarget.com/definition/error-handling)  [Link](http://www.allbusiness.com/glossaries/error-trapping/4956147-1.html)  
-0. o   Recovery testing - [Link](http://www.softwaretestinggenius.com/articalDetails?qry=55)  [Link](http://istqbexamcertification.com/what-is-recovery-testing-in-software/)  
-0. o   Backup and restore testing - [Link](http://www.enterprisestorageforum.com/continuity/features/article.php/3530166/Testing-Backup-and-Restore-Why-It-Matters.htm)  
-0. o   Data security testing - [Link](http://www.guru99.com/what-is-security-testing.html)  [Link](http://www.information-management.com/newsletters/security-10016720-1.html?)  
+0. Performance testing - [Link](http://www.guru99.com/performance-testing.html)  [Link](http://www.softwaretestinghelp.com/what-is-performance-testing-load-testing-stress-testing/)  
+0. Volume testing - [Link](http://www.softwaretesting.no/testing/volumetest.pdf)  [Link](http://geekswithblogs.net/ppothuraju/archive/2005/11/16/60266.aspx)  
+0. Stress testing - [Link](http://www.buzzle.com/articles/software-testing-stress-testing.html)  [Link](http://www.techopedia.com/definition/15310/stress-testing)  [Link](http://www.guru99.com/stress-testing.html)  
+0. Error trapping - [Link](http://searchsoftwarequality.techtarget.com/definition/error-handling)  [Link](http://www.allbusiness.com/glossaries/error-trapping/4956147-1.html)  
+0. Recovery testing - [Link](http://www.softwaretestinggenius.com/articalDetails?qry=55)  [Link](http://istqbexamcertification.com/what-is-recovery-testing-in-software/)  
+0. Backup and restore testing - [Link](http://www.enterprisestorageforum.com/continuity/features/article.php/3530166/Testing-Backup-and-Restore-Why-It-Matters.htm)  
+0. Data security testing - [Link](http://www.guru99.com/what-is-security-testing.html)  [Link](http://www.information-management.com/newsletters/security-10016720-1.html?)  
 
 Server side Testing: Case study for server testing 1
 -------
@@ -317,119 +317,119 @@ Test Automation: Test Frameworks
 
 Introduction to Java
 -------
-1. Features of Java - [Link](http://www.javatpoint.com/features-of-java)  
-2. Introduction to difference java versions - [Link](http://javapapers.com/core-java/java-features-and-history/)  
-3. Introduction to JVM, JIT, class loader and bytecode - [Link](http://www.javatpoint.com/internal-details-of-jvm)  [Link](http://www.oracle.com/technetwork/java/compile-136656.html)  
+0. Features of Java - [Link](http://www.javatpoint.com/features-of-java)  
+0. Introduction to difference java versions - [Link](http://javapapers.com/core-java/java-features-and-history/)  
+0. Introduction to JVM, JIT, class loader and bytecode - [Link](http://www.javatpoint.com/internal-details-of-jvm)  [Link](http://www.oracle.com/technetwork/java/compile-136656.html)  
 
 Language Fundamentals
 -------
-1. Identifiers and Keywords - [Link](http://visualtechno.blogspot.in/2012/08/keywords-literals-and-identifiers-in.html)  
-2. Primitive data types - [Link](http://www.tutorialspoint.com/java/java_basic_datatypes.htm)  
-3. Object Reference Types - [Link](http://java.dzone.com/articles/reference-types-java-part-1)  
-4. Literals - [Link](http://www.roseindia.net/java/language/java-literals.shtml)  
-5. Scoping and Parameter passing (by value & by reference) - [Link](http://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html)  
-6. Comments and Javadocs - [Link](http://journals.ecs.soton.ac.uk/java/tutorial/getStarted/application/comments.html)  
-7. Flow Control Statements - [Link](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  
-8. Arrays - [Link](http://www.learn-java-tutorial.com/arrays.cfm)  [Link](http://www.tutorialspoint.com/java/java_arrays.htm)  
+0. Identifiers and Keywords - [Link](http://visualtechno.blogspot.in/2012/08/keywords-literals-and-identifiers-in.html)  
+0. Primitive data types - [Link](http://www.tutorialspoint.com/java/java_basic_datatypes.htm)  
+0. Object Reference Types - [Link](http://java.dzone.com/articles/reference-types-java-part-1)  
+0. Literals - [Link](http://www.roseindia.net/java/language/java-literals.shtml)  
+0. Scoping and Parameter passing (by value & by reference) - [Link](http://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html)  
+0. Comments and Javadocs - [Link](http://journals.ecs.soton.ac.uk/java/tutorial/getStarted/application/comments.html)  
+0. Flow Control Statements - [Link](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  
+0. Arrays - [Link](http://www.learn-java-tutorial.com/arrays.cfm)  [Link](http://www.tutorialspoint.com/java/java_arrays.htm)  
 
 Operators and Assignments
 -------
-1. Introduction to Operators - [Link](http://www.freejavaguide.com/corejava2.htm)  
-2. Precedence and Associativity - [Link](http://www.tutorialspoint.com/java/java_basic_operators.htm)  
-3. Conversions: Narrowing & Widening Conversions - [Link](http://javapapers.com/java/java-cast-and-conversions/)  
-4. Assignments and Initializations - [Link](http://www.tutorialspoint.com/java/java_basic_operators.htm)  
+0. Introduction to Operators - [Link](http://www.freejavaguide.com/corejava2.htm)  
+0. Precedence and Associativity - [Link](http://www.tutorialspoint.com/java/java_basic_operators.htm)  
+0. Conversions: Narrowing & Widening Conversions - [Link](http://javapapers.com/java/java-cast-and-conversions/)  
+0. Assignments and Initializations - [Link](http://www.tutorialspoint.com/java/java_basic_operators.htm)  
 
 Control Flow Statements
 -------
-1. IF-Else - [Link](http://www.tutorialspoint.com/java/java_decision_making.htm)  
-2. Do-While - [Link](http://www.javabeginner.com/learn-java/java-control-flow-statements)  
-3. While - [Link](http://www.javabeginner.com/learn-java/java-control-flow-statements)  
-4. For - [Link](http://www.tutorialspoint.com/java/java_loop_control.htm)  
-5. Case - [Link](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)  
+0. IF-Else - [Link](http://www.tutorialspoint.com/java/java_decision_making.htm)  
+0. Do-While - [Link](http://www.javabeginner.com/learn-java/java-control-flow-statements)  
+0. While - [Link](http://www.javabeginner.com/learn-java/java-control-flow-statements)  
+0. For - [Link](http://www.tutorialspoint.com/java/java_loop_control.htm)  
+0. Case - [Link](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)  
 
 Object Oriented Programming
 -------
-1. Creating Classes and Instances - [Link](http://docs.oracle.com/javase/tutorial/java/concepts/)  
-2. Inheritance - [Link](http://www.w3resource.com/java-tutorial/java-object-oriented-programming.php)  
-3. Polymorphism(Method Overloading & Overriding) - [Link](http://www.w3resource.com/java-tutorial/java-object-oriented-programming.php)  
-4. Abstract classes and Interfaces - [Link](http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html)  [Link](http://www.javabeginner.com/learn-java/java-abstract-class-and-interface)  
-5. Constructors and Initialization - [Link](http://www.javaworld.com/article/2076614/core-java/object-initialization-in-java.html)  
-6. Reference Variable Casting - [Link](http://inheritingjava.blogspot.in/2011/01/chapter-9-reference-variable-casting.html)  [Link](http://www.javabeginner.com/learn-java/java-object-typecasting)  
-7. Static data and methods - [Link](http://javaeasy.weebly.com/data-members--methods.html)  
+0. Creating Classes and Instances - [Link](http://docs.oracle.com/javase/tutorial/java/concepts/)  
+0. Inheritance - [Link](http://www.w3resource.com/java-tutorial/java-object-oriented-programming.php)  
+0. Polymorphism(Method Overloading & Overriding) - [Link](http://www.w3resource.com/java-tutorial/java-object-oriented-programming.php)  
+0. Abstract classes and Interfaces - [Link](http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html)  [Link](http://www.javabeginner.com/learn-java/java-abstract-class-and-interface)  
+0. Constructors and Initialization - [Link](http://www.javaworld.com/article/2076614/core-java/object-initialization-in-java.html)  
+0. Reference Variable Casting - [Link](http://inheritingjava.blogspot.in/2011/01/chapter-9-reference-variable-casting.html)  [Link](http://www.javabeginner.com/learn-java/java-object-typecasting)  
+0. Static data and methods - [Link](http://javaeasy.weebly.com/data-members--methods.html)  
 
 Object Lifetime
 -------
-1. Object creation and initialization - [Link](http://www.javaworld.com/article/2076614/core-java/object-initialization-in-java.html)  
-2. Memory Organization - [Link](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)  
-3. Garbage Collection - [Link](http://www.javatpoint.com/Garbage-Collection)  
-4. Object Finalization - [Link](http://www.javaworld.com/article/2076697/core-java/object-finalization-and-cleanup.html)  
+0. Object creation and initialization - [Link](http://www.javaworld.com/article/2076614/core-java/object-initialization-in-java.html)  
+0. Memory Organization - [Link](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)  
+0. Garbage Collection - [Link](http://www.javatpoint.com/Garbage-Collection)  
+0. Object Finalization - [Link](http://www.javaworld.com/article/2076697/core-java/object-finalization-and-cleanup.html)  
 
 # Selenium
 
 Selenium Overview & Selenium IDE basics
 -------
-1. Introduction to Selenium - [Link](http://www.guru99.com/introduction-to-selenium.html)  [Link](http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp)  
-2. Overview of Selenium tool suite-IDE - [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp)  
-3. Overview of Selenium tool suite-RC - [Link](http://www.seleniumhq.org/docs/05_selenium_rc.jsp)  
-4. Overview of Selenium tool suite-Grid - [Link](http://www.seleniumhq.org/docs/03_webdriver.jsp)  
-5. Overview of Selenium tool suite-Web driver - [Link](http://www.seleniumhq.org/docs/07_selenium_grid.jsp)  
-6. Installation - [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp)  [Link](http://software-testing-tutorials-automation.blogspot.in/2011/10/how-to-download-and-install-selenium.html)  
-7. Features - [Link](http://www.guru99.com/introduction-selenuim-ide.html)  
-8. Recording and Replaying tests - [Link](http://www.guru99.com/first-selenium-test-script.html)  
+0. Introduction to Selenium - [Link](http://www.guru99.com/introduction-to-selenium.html)  [Link](http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp)  
+0. Overview of Selenium tool suite-IDE - [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp)  
+0. Overview of Selenium tool suite-RC - [Link](http://www.seleniumhq.org/docs/05_selenium_rc.jsp)  
+0. Overview of Selenium tool suite-Grid - [Link](http://www.seleniumhq.org/docs/03_webdriver.jsp)  
+0. Overview of Selenium tool suite-Web driver - [Link](http://www.seleniumhq.org/docs/07_selenium_grid.jsp)  
+0. Installation - [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp)  [Link](http://software-testing-tutorials-automation.blogspot.in/2011/10/how-to-download-and-install-selenium.html)  
+0. Features - [Link](http://www.guru99.com/introduction-selenuim-ide.html)  
+0. Recording and Replaying tests - [Link](http://www.guru99.com/first-selenium-test-script.html)  
 
 Selenium RC
 -------
-1. Architecture and Supported platforms - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp)  
-2. OS, Browsers, Programming Languages, Testing Frameworks. - [Link](http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp#selenium-1-0-and-selenium-rc)  
-3. Installation - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp#installation)  
-4. Download/Setup/Configuration - [Link](http://docs.seleniumhq.org/docs/appendix_installing_java_driver_client.jsp)  [Link](http://docs.seleniumhq.org/download/)  [Link](http://blog.ajeethboaz.com/selenium-rc/selenium-rc-tutorial)  
-5. Setting up Eclipse for Selenium - [Link](http://docs.seleniumhq.org/docs/appendix_installing_java_driver_client.jsp)  [Link](http://automationtestingsimplified.wordpress.com/2011/07/12/setting-up-eclipse-for-selenium-rc/)  
-6. Writing the first test case - [Link](http://chrisrod.wordpress.com/2010/02/21/creating-a-selenium-rc-test-case-in-7-simple-steps)  [Link](http://www.bitmotif.com/selenium/selenium-remote-control-for-java-a-tutorial/)  
-7. Starting Selenium RC Server with parameters - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp#server-options)  
-8. Writing test script using eclipse and executing from eclipse - [Link](http://chrisrod.wordpress.com/2010/02/21/creating-a-selenium-rc-test-case-in-7-simple-steps)  [Link](http://blog.wedoqa.com/2013/02/configuring-selenium-rc-using-eclipse/)  [Link](http://simpleseleniumwithjava.blogspot.in/2013/11/how-configure-selenium-into-eclipse.html)  
-9. Creating Firefox profile - [Link](http://girliemangalo.wordpress.com/2009/02/05/creating-firefox-profile-for-your-selenium-)  [Link](http://www.shooter-smith.co.uk/how-to-use-a-custom-firefox-profile-with-selenesse-selenium-to-add-exceptions-for-ssl-issues/rc-tests/)  
+0. Architecture and Supported platforms - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp)  
+0. OS, Browsers, Programming Languages, Testing Frameworks. - [Link](http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp#selenium-1-0-and-selenium-rc)  
+0. Installation - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp#installation)  
+0. Download/Setup/Configuration - [Link](http://docs.seleniumhq.org/docs/appendix_installing_java_driver_client.jsp)  [Link](http://docs.seleniumhq.org/download/)  [Link](http://blog.ajeethboaz.com/selenium-rc/selenium-rc-tutorial)  
+0. Setting up Eclipse for Selenium - [Link](http://docs.seleniumhq.org/docs/appendix_installing_java_driver_client.jsp)  [Link](http://automationtestingsimplified.wordpress.com/2011/07/12/setting-up-eclipse-for-selenium-rc/)  
+0. Writing the first test case - [Link](http://chrisrod.wordpress.com/2010/02/21/creating-a-selenium-rc-test-case-in-7-simple-steps)  [Link](http://www.bitmotif.com/selenium/selenium-remote-control-for-java-a-tutorial/)  
+0. Starting Selenium RC Server with parameters - [Link](http://docs.seleniumhq.org/docs/05_selenium_rc.jsp#server-options)  
+0. Writing test script using eclipse and executing from eclipse - [Link](http://chrisrod.wordpress.com/2010/02/21/creating-a-selenium-rc-test-case-in-7-simple-steps)  [Link](http://blog.wedoqa.com/2013/02/configuring-selenium-rc-using-eclipse/)  [Link](http://simpleseleniumwithjava.blogspot.in/2013/11/how-configure-selenium-into-eclipse.html)  
+0. Creating Firefox profile - [Link](http://girliemangalo.wordpress.com/2009/02/05/creating-firefox-profile-for-your-selenium-)  [Link](http://www.shooter-smith.co.uk/how-to-use-a-custom-firefox-profile-with-selenesse-selenium-to-add-exceptions-for-ssl-issues/rc-tests/)  
 
 Managing UI Objects
 -------
-1. Locating the element-Use of firebug - [Link](https://addons.mozilla.org/en-US/firefox/addon/firebug/)  
-2. Different Types of web elements. - [Link](http://www.guru99.com/locators-in-selenium-ide.html)  
-3. Identifying Web-Elements using id, name, linkText, class, xpath, tagname, cssselector - [Link](http://www.seleniumhq.org/docs/appendix_locating_techniques.jsp)  [Link](https://thenewcircle.com/static/bookshelf/selenium_tutorial/locators.html)  [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp#locating-elements)  
-4. Handling Input box/buttons, list/selection boxes, radio buttons, check boxes, Grids/Web Tables - [Link](http://stackoverflow.com/questions/20138761/how-to-select-a-dropdown-value-in-selenium-webdriver)  [Link](http://www.toolsqa.com/selenium-webdriver/dropdown-multiple-select-operations/)  [Link](http://www.toolsqa.com/selenium-webdriver/checkbox-radio-button-operations/)  
-5. Handling Dynamic objects through xpath expressions - [Link](http://www.softwaretestinghelp.com/selenium-tutorial-18/)  [Link](http://www.seleniumhq.org/docs/appendix_locating_techniques.jsp)  
+0. Locating the element-Use of firebug - [Link](https://addons.mozilla.org/en-US/firefox/addon/firebug/)  
+0. Different Types of web elements. - [Link](http://www.guru99.com/locators-in-selenium-ide.html)  
+0. Identifying Web-Elements using id, name, linkText, class, xpath, tagname, cssselector - [Link](http://www.seleniumhq.org/docs/appendix_locating_techniques.jsp)  [Link](https://thenewcircle.com/static/bookshelf/selenium_tutorial/locators.html)  [Link](http://www.seleniumhq.org/docs/02_selenium_ide.jsp#locating-elements)  
+0. Handling Input box/buttons, list/selection boxes, radio buttons, check boxes, Grids/Web Tables - [Link](http://stackoverflow.com/questions/20138761/how-to-select-a-dropdown-value-in-selenium-webdriver)  [Link](http://www.toolsqa.com/selenium-webdriver/dropdown-multiple-select-operations/)  [Link](http://www.toolsqa.com/selenium-webdriver/checkbox-radio-button-operations/)  
+0. Handling Dynamic objects through xpath expressions - [Link](http://www.softwaretestinghelp.com/selenium-tutorial-18/)  [Link](http://www.seleniumhq.org/docs/appendix_locating_techniques.jsp)  
 
 Selenium Webdriver I
 -------
-1. Architecture of selenium WebDriver - [Link](http://aosabook.org/en/selenium.html)  [Link](http://code.google.com/p/selenium/wiki/ArchitecturalOverview)  
-3. WebDriver Basics - Installation - [Link](http://www.guru99.com/installing-selenium-webdriver.html)  
-4. WebDriver Basics - Download/Setup/Configuration - [Link](http://www.guru99.com/installing-selenium-webdriver.html)  
-5. WebDriver Basics - Writing the first test case - [Link](http://www.guru99.com/first-webdriver-script.html)  
-6. WebDriver Basics -Object Locators (WebElements) - [Link](http://www.qaautomation.net/?p=388)  [Link](https://loadfocus.com/blog/2013/09/how-to-locate-web-elements-with-selenium-webdriver/)  
-7. Managing Alerts/Pop-ups. - [Link](http://www.abodeqa.com/2013/03/31/handling-javascript-alert-in-webdriver/)  
+0. Architecture of selenium WebDriver - [Link](http://aosabook.org/en/selenium.html)  [Link](http://code.google.com/p/selenium/wiki/ArchitecturalOverview)  
+0. WebDriver Basics - Installation - [Link](http://www.guru99.com/installing-selenium-webdriver.html)  
+0. WebDriver Basics - Download/Setup/Configuration - [Link](http://www.guru99.com/installing-selenium-webdriver.html)  
+0. WebDriver Basics - Writing the first test case - [Link](http://www.guru99.com/first-webdriver-script.html)  
+0. WebDriver Basics -Object Locators (WebElements) - [Link](http://www.qaautomation.net/?p=388)  [Link](https://loadfocus.com/blog/2013/09/how-to-locate-web-elements-with-selenium-webdriver/)  
+0. Managing Alerts/Pop-ups. - [Link](http://www.abodeqa.com/2013/03/31/handling-javascript-alert-in-webdriver/)  
 
 Selenium Webdriver II
 -------
-1. Verification and Synchronization Points - [Link](http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp)  [Link](http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html)  [Link](http://stackoverflow.com/questions/16661699/webdriver-verify-text-presentation-on-a-loaded-page)  [Link](http://stackoverflow.com/questions/17470152/how-to-verify-web-element-presence-on-the-page-using-selenium-2)  
-2. Managing Waits - [Link](http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp)  [Link](http://www.guru99.com/first-webdriver-script.html)  [Link](http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html)  [Link](http://code.google.com/p/selenium/wiki/DesiredCapabilities)  
-3. Switching between the frames, window - [Link](http://www.guru99.com/first-webdriver-script.html)  [Link](http://solutions4selenium.blogspot.in/2013/02/switching-between-windows-using_25.html)  [Link](http://www.abodeqa.com/2013/09/12/767/)  
-4. Capturing screenshots - [Link](http://www.abodeqa.com/tag/capture-screenshot-in-selenium-webdriver-using-java/)  
-5. Working with chrome and IE browsers - [Link](http://code.google.com/p/selenium/wiki/InternetExplorerDriver%20%0a)  
-6. Testing Ajax Applications - [Link](http://chon.techliminal.com/ajax_wait/#/intro)  [Link](http://blog.activelylazy.co.uk/2010/05/05/testing-asynchronous-applications-with-webdriver/)  
+0. Verification and Synchronization Points - [Link](http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp)  [Link](http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html)  [Link](http://stackoverflow.com/questions/16661699/webdriver-verify-text-presentation-on-a-loaded-page)  [Link](http://stackoverflow.com/questions/17470152/how-to-verify-web-element-presence-on-the-page-using-selenium-2)  
+0. Managing Waits - [Link](http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp)  [Link](http://www.guru99.com/first-webdriver-script.html)  [Link](http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html)  [Link](http://code.google.com/p/selenium/wiki/DesiredCapabilities)  
+0. Switching between the frames, window - [Link](http://www.guru99.com/first-webdriver-script.html)  [Link](http://solutions4selenium.blogspot.in/2013/02/switching-between-windows-using_25.html)  [Link](http://www.abodeqa.com/2013/09/12/767/)  
+0. Capturing screenshots - [Link](http://www.abodeqa.com/tag/capture-screenshot-in-selenium-webdriver-using-java/)  
+0. Working with chrome and IE browsers - [Link](http://code.google.com/p/selenium/wiki/InternetExplorerDriver%20%0a)  
+0. Testing Ajax Applications - [Link](http://chon.techliminal.com/ajax_wait/#/intro)  [Link](http://blog.activelylazy.co.uk/2010/05/05/testing-asynchronous-applications-with-webdriver/)  
 
 Modular Project and Data Driven Testing
 -------
-1. Advantages of modular project - [Link](http://www.examiner.com/article/programming-concepts-the-benefits-of-modular-)  [Link](http://www.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/ghanakotagayatri.pdf)  
-2. Page Object patterns in Selenium - [Link](http://devyard.wordpress.com/2012/07/19/page-object-pattern-with-selenium-webdriver/)  [Link](http://code.google.com/p/selenium/wiki/PageObjects)  [Link](http://code.google.com/p/selenium/wiki/PageFactory)  
-3. What is Data Driven Testing - [Link](http://en.wikipedia.org/wiki/Data-driven_testing)  
-4. Data driven test using csv and Excel - [Link](http://thangselenium.blogspot.in/2011/08/selenium-parameterization-using-csv.html)  [Link](http://opencsv.sourceforge.net/)  [Link](http://executeautomation.com/blogold/blog_mod/data-driven-testing-in-selenium-using-jxl/)  [Link](http://executeautomation.com/blog/data-driven-testing-in-selenium-using-jxl-part-2/)  
-5. Data driven test using DB - [Link](http://maheshambati.wordpress.com/2013/05/29/tutorial-connecting-to-database-using-selenium-webdriver/)  [Link](http://www.javacamp.org/moreclasses/jdbc/jdbc.html)  
-6. Exception Handling - [Link](http://www.tutorialspoint.com/java/java_exceptions.htm)  [Link](http://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html)  
+0. Advantages of modular project - [Link](http://www.examiner.com/article/programming-concepts-the-benefits-of-modular-)  [Link](http://www.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/ghanakotagayatri.pdf)  
+0. Page Object patterns in Selenium - [Link](http://devyard.wordpress.com/2012/07/19/page-object-pattern-with-selenium-webdriver/)  [Link](http://code.google.com/p/selenium/wiki/PageObjects)  [Link](http://code.google.com/p/selenium/wiki/PageFactory)  
+0. What is Data Driven Testing - [Link](http://en.wikipedia.org/wiki/Data-driven_testing)  
+0. Data driven test using csv and Excel - [Link](http://thangselenium.blogspot.in/2011/08/selenium-parameterization-using-csv.html)  [Link](http://opencsv.sourceforge.net/)  [Link](http://executeautomation.com/blogold/blog_mod/data-driven-testing-in-selenium-using-jxl/)  [Link](http://executeautomation.com/blog/data-driven-testing-in-selenium-using-jxl-part-2/)  
+0. Data driven test using DB - [Link](http://maheshambati.wordpress.com/2013/05/29/tutorial-connecting-to-database-using-selenium-webdriver/)  [Link](http://www.javacamp.org/moreclasses/jdbc/jdbc.html)  
+0. Exception Handling - [Link](http://www.tutorialspoint.com/java/java_exceptions.htm)  [Link](http://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html)  
 
 Introduction to Selenium Grid
 -------
-1. Introduction to Grid - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  
-2. Creating Nodes and Hubs - [Link](http://code.google.com/p/selenium/wiki/Grid2)  
-3. Running single test on multiple nodes - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  
-4. RemoteWebDriver and DesiredCapabilities classes - [Link](https://code.google.com/p/selenium/wiki/RemoteWebDriver)  [Link](https://code.google.com/p/selenium/wiki/DesiredCapabilities)  
-5. Creating a Grid sample test case - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  [Link](http://www.packtpub.com/sites/default/files/downloads/Distributed_Testing_with_Selenium_Grid.pdf)  
-6. Configuring nodes and Hub (E.g. configuring port, timeout, maxSession, browser) - [Link](https://code.google.com/p/selenium/wiki/Grid2)  
+0. Introduction to Grid - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  
+0. Creating Nodes and Hubs - [Link](http://code.google.com/p/selenium/wiki/Grid2)  
+0. Running single test on multiple nodes - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  
+0. RemoteWebDriver and DesiredCapabilities classes - [Link](https://code.google.com/p/selenium/wiki/RemoteWebDriver)  [Link](https://code.google.com/p/selenium/wiki/DesiredCapabilities)  
+0. Creating a Grid sample test case - [Link](http://www.guru99.com/introduction-to-selenium-grid.html)  [Link](http://www.packtpub.com/sites/default/files/downloads/Distributed_Testing_with_Selenium_Grid.pdf)  
+0. Configuring nodes and Hub (E.g. configuring port, timeout, maxSession, browser) - [Link](https://code.google.com/p/selenium/wiki/Grid2)  
 
